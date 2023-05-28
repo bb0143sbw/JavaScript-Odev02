@@ -9,6 +9,7 @@ function buttonHandler() {
   if (!textArea.value || textArea.value == "" > 0) {
     // alert("Hatali Giris Yaptiniz");
 
+    // error toast görünür hale geldi
     let toast = document.querySelector(".error");
     toast.classList.remove("hide");
     toast.classList.add("d-block");
@@ -17,9 +18,13 @@ function buttonHandler() {
     list.append(newListItem);
     newListItem.innerText = textArea.value;
 
+    // success toast görünür hale geldi
     let toast = document.querySelector(".success");
     toast.classList.remove("hide");
     toast.classList.add("d-block");
+
+    // localstorage ekleme
+    saveListItemToLocalStorage(textArea.value);
 
     // Yeni eklenen list öğelerine kapatma butonu eklemek için
     addCloseButtonToElement(newListItem);
@@ -33,6 +38,8 @@ function buttonHandler() {
         newListItem.classList.add("checked");
       }
     });
+    // öge eklendikten sonra textArea'yı temizle
+    textArea.value = "";
   }
 }
 
@@ -78,6 +85,21 @@ errorButton.addEventListener("click", function () {
 successButton.addEventListener("click", function () {
   document.querySelector("#successToast").style.display = "none";
 });
+
+// listeye yeni eklenen ögeleri local storage ekleyen function
+function saveListItemToLocalStorage(item) {
+  // Önce localStorage'da kayıtlı öğeleri al
+  let storedItems = localStorage.getItem("listItems");
+
+  // Eğer daha önce kayıtlı öğeler varsa JSON formatından diziye dönüştür
+  let itemsArray = storedItems ? JSON.parse(storedItems) : [];
+
+  // Yeni öğeyi dizinin sonuna ekle
+  itemsArray.push(item);
+
+  // Diziyi JSON formatına dönüştür ve localStorage'a kaydet
+  localStorage.setItem("listItems", JSON.stringify(itemsArray));
+}
 
 /* 
 // Variables
