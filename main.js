@@ -68,6 +68,17 @@ function hideElementOnClick(element) {
   };
 }
 
+// butona tıklandığında toastların görünümünü gizledim
+let errorButton = document.getElementById("errorButton");
+let successButton = document.getElementById("successButton");
+
+errorButton.addEventListener("click", function () {
+  document.querySelector("#errorToast").style.display = "none";
+});
+successButton.addEventListener("click", function () {
+  document.querySelector("#successToast").style.display = "none";
+});
+
 /* 
 // Variables
 let button = document.querySelector("#liveToastBtn");
