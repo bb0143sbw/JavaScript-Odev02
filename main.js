@@ -7,11 +7,19 @@ button.addEventListener("click", buttonHandler);
 
 function buttonHandler() {
   if (!textArea.value || textArea.value == "" > 0) {
-    alert("Hatali Giris Yaptiniz");
+    // alert("Hatali Giris Yaptiniz");
+
+    let toast = document.querySelector(".error");
+    toast.classList.remove("hide");
+    toast.classList.add("d-block");
   } else {
     let newListItem = document.createElement("li");
     list.append(newListItem);
     newListItem.innerText = textArea.value;
+
+    let toast = document.querySelector(".success");
+    toast.classList.remove("hide");
+    toast.classList.add("d-block");
 
     // Yeni eklenen list öğelerine kapatma butonu eklemek için
     addCloseButtonToElement(newListItem);
@@ -54,6 +62,9 @@ function hideElementOnClick(element) {
   element.onclick = function () {
     var div = this.parentElement;
     div.style.display = "none";
+
+    // div.remove();
+    // console.log(list);
   };
 }
 
