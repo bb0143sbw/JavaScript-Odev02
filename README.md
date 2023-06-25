@@ -25,7 +25,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuştur. Front-end gel
 
 Kodları keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak isterseniz memnuniyetle karşılarız. Senin Yapman Gerekenler ile birlikte düzenli ve verimli olmaya devam edelim!
 
-<table style"float:right;">
+<table class="center">
   <tr>
     <td><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"/></td>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
