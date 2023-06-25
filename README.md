@@ -4,3 +4,5 @@
 
 
 ![img](sayfa-gorseli.png)
+
+<img src="sayfa gorseli.png"/>
