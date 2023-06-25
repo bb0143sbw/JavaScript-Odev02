@@ -2,7 +2,7 @@
 
 [Patika Profilim](https://app.patika.dev/onefourthreebb)
 
-<img src="sayfa-gorseli.png"/>
+<img src="sayfa gorseli.png"/>
 
 **Başlangıç Seviye Frontend Web Development Patikası**'nda JavaScript ödevi olarak **Your To Do's** uygulaması yaptım. **Your To Do's**, görevlerinizi düzenlemek ve yönetmek için tasarlanmış basit ve anlaşılır bir yapılacaklar listesi uygulamasıdır.
 
