@@ -28,14 +28,9 @@ Kodları keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak iste
 <table style"float:right;">
   <tr>
     <td><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"/></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
-  <tr>
     <td><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap"/></td>
-  </tr>
-  <tr>
- 		<td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/></td>
+    <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/></td>
   </tr>
 </table>
 
