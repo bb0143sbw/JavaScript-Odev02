@@ -4,7 +4,7 @@
 
 <img src="sayfa gorseli.png"/>
 
-**Başlangıç Seviye Frontend Web Development Patikası**'nda JavaScript ödevi olarak **Your To Do's** uygulaması yaptım. **Your To Do's**, görevlerinizi düzenlemek ve yönetmek için tasarlanmış basit ve anlaşılır bir yapılacaklar listesi uygulamasıdır.
+**Başlangıç Seviye Frontend Web Development Patikası**'nda JavaScript ödevi olarak **Your To Do's** uygulamasını yaptım. **Your To Do's**, görevlerinizi düzenlemek ve yönetmek için tasarlanmış basit ve anlaşılır bir yapılacaklar listesi uygulamasıdır.
 
 ## 🚀 Özellikler
 
@@ -22,8 +22,6 @@
 
 Bu proje, **HTML**, **CSS** ve **JavaScript** kullanılarak oluşturulmuştur. Front-end geliştirme becerilerimi sergileyerek işlevsel ve kullanıcı dostu bir web uygulaması oluşturma yeteneğimi göstermektedir.
 
-Kodları keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak isterseniz memnuniyetle karşılarız. Your To Do's ile birlikte düzenli ve verimli olmaya devam edelim!
-
 <table style="margin: 0 auto;">
   <tr>
     <td><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript"/></td>
@@ -32,6 +30,8 @@ Kodları keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak iste
     <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/></td>
   </tr>
 </table>
+
+Kodları keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak isterseniz memnuniyetle karşılarız. Your To Do's ile birlikte düzenli ve verimli olmaya devam edelim!
 
 ## 🤝 Katkıda Bulunma
 
