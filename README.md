@@ -35,6 +35,6 @@ Bu proje, **HTML**, **CSS** ve **JavaScript** kullanılarak oluşturulmuştur. F
 
 ## 🤝 Katkıda Bulunma
 
-EEğer projenin kodlarını keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak isterseniz "fork" işlemi yaparak kendi kopyanızı oluşturabilir ve değişikliklerinizi yapabilirsiniz. Ardından "pull request" göndererek değişikliklerinizi ana projeye ekletebilirsiniz. Your To Do's ile birlikte düzenli ve verimli olmaya devam edelim!
+Eğer projenin kodlarını keşfetmek, geri bildirim sağlamak veya projeye katkıda bulunmak isterseniz "fork" işlemi yaparak kendi kopyanızı oluşturabilir ve değişikliklerinizi yapabilirsiniz. Ardından "pull request" göndererek değişikliklerinizi ana projeye ekletebilirsiniz. Your To Do's ile birlikte düzenli ve verimli olmaya devam edelim!
 
 ☎️ Bu projeyle ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin. İyi kullanımlar!
