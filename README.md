@@ -1,4 +1,6 @@
-# JavaScript-Odev02
+# To Do Uygulaması
+
+## JavaScript-Odev02
 
 [Patika Profilim](https://app.patika.dev/onefourthreebb)
 
