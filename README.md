@@ -1,4 +1,4 @@
-# To Do Uygulaması
+# Your To Do's Uygulaması
 
 ## JavaScript-Odev02
 
