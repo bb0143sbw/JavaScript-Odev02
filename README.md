@@ -16,9 +16,13 @@
 
 ## 💻 Projenin Kurulumu
 
-- 1-Depoyu klonlayın.
-- 2-index.html dosyasını web tarayıcınızda açın.
-- 3-Görevlerinizi eklemeye başlayın ve yapmanız gerekenleri takip etmenin keyfini çıkarın!
+- 1-Bu projeyi bilgisayarınıza klonlayın:
+  `git clone https://github.com/bugrabasbostanci/JavaScript-Odev02.git`
+- 2-Proje dizinine gidin:
+  `cd JavaScript-Odev02
+`
+- 3-index.html dosyasını bir tarayıcıda açarak uygulamayı çalıştırın.
+- 4-Görevlerinizi eklemeye başlayın ve yapmanız gerekenleri takip etmenin keyfini çıkarın!
 
 <h2> 🛠️ &nbsp;Kullanılan Teknolojiler</h2>
 
